@@ -1,0 +1,6 @@
+{
+  "port": 3001,
+  "jwtSecret": "VladZab",
+  "mongoUri": "mongodb+srv://username:username@cluster0.5h4ut.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:3001"
+}
